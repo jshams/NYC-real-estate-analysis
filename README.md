@@ -9,6 +9,7 @@ or you can view my presentation created using
 
 ## Technologies used:
 - Python
+- Jupyter Notebooks
 - Pandas
 - Matplotlib
 - Seaborn
